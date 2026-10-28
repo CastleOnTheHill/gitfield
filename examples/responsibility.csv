@@ -1,0 +1,6 @@
+field_id,field_name,owner_id,member_id
+PAY,支付平台,1001,1001
+PAY,支付平台,1001,1002
+SEARCH,搜索推荐,2001,2001
+SEARCH,搜索推荐,2001,2002
+DATA,数据分析,3001,3001

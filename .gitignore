@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.pytest_cache/
+.coverage
+.DS_Store
+
+# Local databases and generated demo repositories
+*.db
+*.db-wal
+*.db-shm
+.demo/
+demo-workdir/
+gitfield.db
+
+# Tooling caches
+.ruff_cache/
